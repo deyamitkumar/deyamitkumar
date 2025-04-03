@@ -1,6 +1,6 @@
 # Hey, I'm Amit 👋
 
-I'm a **Agentic Software Engineer** based in Ottawa, Canada, with a passion for building robust, user-friendly web apps and scalable cloud solutions. I bring experience across **full-stack development**, **cloud engineering**, **testing**, and **mentorship**.
+I'm a **Agentic Software Engineer** based in Canada, with a passion for building robust, user-friendly web apps and scalable cloud solutions. I bring experience across **full-stack development**, **cloud engineering**, **testing**, and **mentorship**.
 
 ---
 
@@ -82,7 +82,7 @@ I'm a **Agentic Software Engineer** based in Ottawa, Canada, with a passion for 
 
 - 🧑‍💻 [GitHub](https://gist.github.com/deyamitkumar)
 - 🌐  [LinkedIn](https://amitkumardey.com/)
-- 💼 [LinkedIn](linkedin.com/in/amitkrdey/)
+- 💼 [LinkedIn](https://linkedin.com/in/amitkrdey/)
 
 
 ---
