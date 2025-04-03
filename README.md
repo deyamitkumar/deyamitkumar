@@ -80,23 +80,14 @@ I'm a **Agentic Software Engineer** based in Ottawa, Canada, with a passion for 
 
 ## 📫 Connect With Me
 
-- 🌐 [GitHub](https://gist.github.com/deyamitkumar)
-- 💼 [LinkedIn](https://amitkumardey.com/)
+- 🧑‍💻 [GitHub](https://gist.github.com/deyamitkumar)
+- 🌐  [LinkedIn](https://amitkumardey.com/)
+- 💼 [LinkedIn](linkedin.com/in/amitkrdey/)
 
 
 ---
 
 _This is my personal profile page, inspired by minimalist developer aesthetics. Built with love, Markdown, and curiosity._
-
-
-
-## 🛠️ Tech Stack
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-
-## 🔥 GitHub Stats
-![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
 
 
