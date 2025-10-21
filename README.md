@@ -81,7 +81,6 @@ I'm a **Agentic Software Engineer** based in Canada, with a passion for building
 ## 📫 Connect With Me
 
 - 🧑‍💻 [GitHub](https://gist.github.com/deyamitkumar)
-- 🌐  [LinkedIn](https://amitkumardey.com/)
 - 💼 [LinkedIn](https://linkedin.com/in/amitkrdey/)
 
 
