@@ -56,7 +56,7 @@ I'm a **Agentic Software Engineer** based in Canada, with a passion for building
 
 ---
 
-## 🚀 Projects & Work Highlights
+## 🚀 Work Highlights
 
 - 🤖 **AI Consultant** @ Independent Consultant (Toronto)  
   Built GenAI-powered solutions using RAG, embeddings, and LLM APIs. Delivered proof-of-concepts for small businesses and automated internal workflows to reduce manual effort.
@@ -72,7 +72,7 @@ I'm a **Agentic Software Engineer** based in Canada, with a passion for building
 
 ---
 
-## 📘 Education & Certifications
+## 📘 Education
 
 - 🎓 M.Eng. in Software Engineering — *Concordia University, Montreal*
 - 🎓 B.Sc. in Computer Science — *Brac University, Dhaka*
