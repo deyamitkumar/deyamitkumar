@@ -35,8 +35,6 @@ I'm a **Agentic Software Engineer** based in Canada, with a passion for building
 ![RAG](https://img.shields.io/badge/RAG-111827?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Embeddings](https://img.shields.io/badge/Embeddings-111827?style=for-the-badge&logo=vectorworks&logoColor=white)
 ![Vector Databases](https://img.shields.io/badge/Vector%20Databases-111827?style=for-the-badge&logo=databricks&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-0B3B5D?style=for-the-badge&logo=pinecone&logoColor=white)
-![Weaviate](https://img.shields.io/badge/Weaviate-0C4A6E?style=for-the-badge&logo=semantic-web&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-064E3B?style=for-the-badge&logo=chainlink&logoColor=white)
 ![OpenAI APIs](https://img.shields.io/badge/OpenAI%20APIs-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![GPT](https://img.shields.io/badge/GPT-222222?style=for-the-badge&logo=openai&logoColor=white)
