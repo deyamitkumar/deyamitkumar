@@ -58,14 +58,17 @@ I'm a **Agentic Software Engineer** based in Canada, with a passion for building
 
 ## 🚀 Projects & Work Highlights
 
+- 🤖 **AI Consultant** @ Independent Consultant (Toronto)  
+  Built GenAI-powered solutions using RAG, embeddings, and LLM APIs. Delivered proof-of-concepts for small businesses and automated internal workflows to reduce manual effort.
+
 - 🛠 **Senior Developer** @ Terabit (Ottawa)  
-  Led full-stack development for dynamic web platforms. Improved performance and security in multi-user systems.
+  Led full-stack AI development. Improved performance and security.
 
 - 🎓 **Instructor – Web & IT** @ CDI College (Laval)  
   Taught web dev and network fundamentals. Mentored aspiring devs in real-world projects.
 
 - 🧪 **Software Engineer** @ Durbar Software (Dhaka)  
-  Delivered enterprise-grade PHP applications and RESTful APIs.
+  Delivered enterprise-grade applications and RESTful APIs.
 
 ---
 
